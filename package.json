@@ -1,0 +1,16 @@
+{
+  "name": "allentranslate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeCh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mergeCh": "node mergeCh.js",
+    "toEn": "node toEn.js"
+  },
+  "author": "AllenHuang",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}

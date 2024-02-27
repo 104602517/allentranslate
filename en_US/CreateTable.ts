@@ -1,0 +1,23 @@
+export default {
+  utils: {
+    beiShu: "Multiplier",
+    haoMa: "Number:",
+    jieGuo: "Result",
+    weiZhi: "Unknown",
+    wanFa: "Play",
+    weiZhi2: "Place",
+    touZhuWeiZhi: "Betting place",
+    haoMa2: "Number",
+    touZhuHaoMa: "Betting number",
+    wanFaPLA: "Play: {val1}, Place: {val2}, Number: {val3},",
+    touZhu: "Bet",
+    touZhuXiang: "Betting items:",
+    zhuang: "Dealer",
+    zhuangXian: "Dealer & player",
+    gang: "HK",
+    xiangGang: "Hong Kong",
+    ou: "Europe",
+    ouZhou: "Europe",
+    quanXuan: "Select all",
+  },
+};

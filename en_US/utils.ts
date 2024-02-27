@@ -1,0 +1,35 @@
+export default {
+  export: {
+    baoBiaoXLS: "Report.xlsx",
+  },
+  request: {
+    chuXianWeiZhiCuo: "Unknown error. Contact the administrator. Error code is {val1}.",
+    qingQiuChuCuo: "Request error",
+    qingQiuCuoWuS: "Request error {val1}: {val2}",
+    wangGuanChaoShi: "Gateway timed out.",
+    fuWuBuKeYong: "Service unavailable. Server is temporarily overloaded or under maintenance.",
+    wangGuanCuoWu: "Gateway error.",
+    fuWuQiFaSheng: "Server error. Check the server.",
+    dangChuangJianYiGe: "Validation error when creating an object.",
+    qingQiuDeZiYuan: "Requested resource is permanently deleted and won't be retrieved again.",
+    qingQiuDeGeShi: "Requested format is unavailable.",
+    faChuDeQingQiu: "The request was for a non-existing record and no operation was taken by the server.",
+    yongHuDeDaoShou: "User is authorized, but access is denied.",
+    yongHuMeiYouQuan: "User does not have permission (due to incorrect token, username, or password).",
+    faChuDeQingQiu2: "Sent request contained an error and server didn't create or modify data.",
+    shanChuShuJuCheng: "Data deleted.",
+    yiGeQingQiuYi: "A request has joined the queue in the background (asynchronous task).",
+    xinJianHuoXiuGai: "Data created or modified.",
+    fuWuQiChengGong: "Requested data returned by server.",
+  },
+  resizeObserver: {
+    liuLanQiChuangKou: "Browser window remains unchanged.",
+  },
+  tools: {
+    dISPL: "{val1} original",
+    baoCunChengGong: "Saved",
+  },
+  gPiPeiHT: "null",
+  oNELI: "null",
+  jOINZi: "null",
+};

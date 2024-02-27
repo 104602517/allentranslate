@@ -1,0 +1,25 @@
+export default {
+  zh_CN: {
+    peiZhiMeiYouXiu: '配置没有修改',
+    dangQianPeiZhiV: '当前配置 {value} 已被修改',
+    niQueDingYaoZhong: '你确定要重置以上配置吗',
+    zhongZhi: '重置',
+    baoCun: '保存',
+    quXiao: '取消',
+    queDing: '确定',
+    souSuo: '搜索',
+    huanYingLaiDaoN: '欢迎来到 {name} 项目',
+    zongLan: '总览',
+    tiaoKuan: '条款',
+    yinSi: '隐私',
+    bangZhu: '帮助',
+    yuYan: '语言',
+  },
+  zh_TW: {
+    xiaZaiCiYeMian: '下載此頁面到本地項目',
+    tiaoKuan: '條款',
+    yinSi: '隱私',
+    bangZhu: '幫助',
+    yuYan: '語言',
+  },
+};

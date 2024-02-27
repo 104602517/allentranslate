@@ -1,0 +1,27 @@
+export default {
+  createSystemModal: {
+    qingXuanZeXiTong: "Select the system icon.",
+    xiTongTuBiao: "System icon",
+    qingXuanZeXiTong2: "Select the system description",
+    xiTongMiaoShu: "System description",
+    qingShuRuXiTong: "Enter the system name.",
+    xiTongMingCheng: "System name",
+    chuangJianYeWuXi: "Create/manage business system",
+    qingGouXuanXiTong: "Check the system permission.",
+    xinHuaiDaXiangFa: "Think big and enjoy minor pleasures.",
+    chengGongJiuShiRi: "Success comes after working hard day after day.",
+    tianShiBuRuDi: "The time isn't as important as the terrain; but the terrain isn't as important as unity with the people.",
+    yunWeiDeShiJie: "The O&M world is ticking like an old clock.",
+    shengMingJiuXiangYi: "Life is like a box of chocolates. You never know what you can get.",
+    shuJuJiuXiangYi: "Data is like a magic book from which all skills can be acquired happily.",
+    guiHuaDeMuDi: "Planning is to achieve your goals faster and more efficiently.",
+    dangFengXianLaiLin: "Face risk with a smile and address it with wisdom.",
+  },
+  index: {
+    guanLiXiTongQuan: "Manage system permissions",
+    zuiHouXiuGaiShi: "Last modification time",
+    chuangJianShiJian: "Creation time",
+    qingQiuZuiXinCai: "Request the latest menu",
+    gongXiNiQingQiu: "Congratulations. Latest menu requested.",
+  },
+};

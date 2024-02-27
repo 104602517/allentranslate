@@ -1,0 +1,36 @@
+export default {
+  mixin: {
+    biTianXiangBuNeng: "Required fields cannot be empty.",
+    chaXunRiQiQu: "The query date range cannot exceed {val1} days.",
+    queRen: "Confirm",
+    shangChuanTuPianZhi: "Only jpg/png/jpeg/gif images can be uploaded.",
+    buKeChaoGuoWei: "Limit to 22 characters.",
+    xuanZeShangChuanDe: "Wrong image format. Choose again.",
+  },
+  mixin_private: {
+    shangChuanTuPianShi: "Failed to upload image",
+    shangChuanTuPianCheng: "Image uploaded",
+    shangChuanJieKouYi: "Upload API exception",
+    gongXiNiFuZhi: "Congratulations. Copied successfully.",
+  },
+  utils: {
+    quanBu: "All",
+  },
+  components: {
+    kaiQiZhangHao: "Enable account",
+    gongXiCaoZuoCheng: "Congratulations. The operation is successful.",
+    queDingYaoOP: "{val1} login permission?",
+    kaiQiBuMen: "Enable department",
+    kaiQiGangWei: "Enable job",
+    suoDingBuMen: "Lock department",
+    suoDingGangWei: "Lock job",
+    suoDingZhangHao: "Lock account",
+    kaiQiCiBuMen: "Enable this department",
+    kaiQiCiGangWei: "Enable this job",
+    suoDingCiBuMen: "Lock this department",
+    suoDingCiGangWei: "Lock this job",
+    suoDingCiZhangHao: "Lock this account",
+    caoZuoChengGong: "�, the operation is successful.",
+    buMen: "Department",
+  },
+};

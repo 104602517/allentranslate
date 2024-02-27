@@ -1,0 +1,36 @@
+export default {
+  mixin: {
+    biTianXiangBuNeng: '必填项不能为空',
+    chaXunRiQiQu: '查询日期区间不能超过{val1}天',
+    queRen: '确认',
+    shangChuanTuPianZhi: '上传图片只能是 jpg/png/jpeg/gif/webp 格式!',
+    buKeChaoGuoWei: '不可超过45位字符',
+    xuanZeShangChuanDe: '选择上传的图片格式有误，请重新选择',
+  },
+  mixin_private: {
+    shangChuanTuPianShi: '上传图片失败',
+    shangChuanTuPianCheng: '上传图片成功',
+    shangChuanJieKouYi: '上传接口异常',
+    gongXiNiFuZhi: '恭喜你，复制成功',
+  },
+  utils: {
+    quanBu: '全部',
+  },
+  components: {
+    kaiQiZhangHao: '开启账号',
+    gongXiCaoZuoCheng: '恭喜，操作成功~',
+    queDingYaoOP: '确定要{val1}的登录权限吗？',
+    kaiQiBuMen: '开启部门',
+    kaiQiGangWei: '开启岗位',
+    suoDingBuMen: '锁定部门',
+    suoDingGangWei: '锁定岗位',
+    suoDingZhangHao: '锁定账号',
+    kaiQiCiBuMen: '开启此部门',
+    kaiQiCiGangWei: '开启此岗位',
+    suoDingCiBuMen: '锁定此部门',
+    suoDingCiGangWei: '锁定此岗位',
+    suoDingCiZhangHao: '锁定此账号',
+    caoZuoChengGong: '💐，操作成功~',
+    buMen: '部门',
+  },
+};

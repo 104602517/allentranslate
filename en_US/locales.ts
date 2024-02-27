@@ -1,0 +1,25 @@
+export default {
+  zh_CN: {
+    peiZhiMeiYouXiu: "Configuration not modified",
+    dangQianPeiZhiV: "The {value} configuration has been modified.",
+    niQueDingYaoZhong: "Reset the error?",
+    zhongZhi: "Reset",
+    baoCun: "Save",
+    quXiao: "Cancel",
+    queDing: "OK",
+    souSuo: "Search",
+    huanYingLaiDaoN: "Welcome to the {name} project.",
+    zongLan: "Overview",
+    tiaoKuan: "Terms",
+    yinSi: "Privacy",
+    bangZhu: "Help",
+    yuYan: "Language",
+  },
+  zh_TW: {
+    xiaZaiCiYeMian: "Download this page to your local project",
+    tiaoKuan: "Terms",
+    yinSi: "Privacy",
+    bangZhu: "Help",
+    yuYan: "Language",
+  },
+};
